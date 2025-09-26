@@ -30,12 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PA10BLO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PA10BLO&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablourenasimon/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)](https://www.pablourena.com)  
