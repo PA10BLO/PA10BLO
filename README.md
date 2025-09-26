@@ -4,6 +4,10 @@
 📍 Based in Spain | 🌍 Open to international opportunities  
 
 ---
+## Portfolio
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=web&logoColor=white)](https://www.pablourena.com)  
+
+---
 
 ## 🛠 Tech Stack
 ![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white)
@@ -12,20 +16,23 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-blue?logo=xcode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
 ![Jira](https://img.shields.io/badge/-Jira-blue?logo=jira&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?logo=sonarqube&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Alamofire](https://img.shields.io/badge/-Alamofire-FF2D55?logo=swift&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/-Slack-purple?logo=slack&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
-- [📚 BookConnect](https://github.com/tu-repo-bookconnect) – App for searching books with Open Library API  
-- [🎟 Local Events App](https://github.com/tu-repo-eventos) – Discover nearby events using SwiftUI & MapKit  
-- [🌐 Portfolio Website](https://pablourena.com) – My personal website & CV  
+- [🌀 RickyMortySwiftUI](https://github.com/PA10BLO/RickyMortySwiftUI) – Rick & Morty app built with SwiftUI
 
 ---
 
 ## 📊 GitHub Stats
-![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablourena&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablourena&layout=compact&theme=tokyonight)
+![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=PA10BLO&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PA10BLO&layout=compact&theme=tokyonight)
 
 ---
 
